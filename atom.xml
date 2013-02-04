@@ -4,7 +4,7 @@
   <title><![CDATA[Lost Exception]]></title>
   <link href="http://bumshmyak.github.com/lostexception/atom.xml" rel="self"/>
   <link href="http://bumshmyak.github.com/lostexception/"/>
-  <updated>2013-02-04T22:59:13+04:00</updated>
+  <updated>2013-02-04T23:51:26+04:00</updated>
   <id>http://bumshmyak.github.com/lostexception/</id>
   <author>
     <name><![CDATA[vykers and bumshmyak]]></name>
@@ -12,6 +12,90 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[6. Светлый]]></title>
+    <link href="http://bumshmyak.github.com/lostexception/blog/2013/02/04/light/"/>
+    <updated>2013-02-04T22:21:00+04:00</updated>
+    <id>http://bumshmyak.github.com/lostexception/blog/2013/02/04/light</id>
+    <content type="html"><![CDATA[<script type="text/javascript">
+$(document).ready(function(){
+    $("#jquery_jplayer_6").jPlayer({
+        ready: function (event) {
+            $(this).jPlayer("setMedia", {
+                mp3: "https://dl.dropbox.com/s/ekzkuherqy0gyvz/episode6.mp3",
+                oga: "https://dl.dropbox.com/s/t3tdtatmpyozyvt/episode6.oga"
+            });
+        },
+        cssSelectorAncestor: "#jp_container_6",
+        swfPath: "/assets/jplayer",
+        supplied: "oga, mp3",
+        wmode: "window",
+        preload: "none"
+    });
+});
+</script>
+
+<div id="jquery_jplayer_6" class="jp-jplayer"></div>
+
+<div id="jp_container_6" class="jp-audio">
+    <div class="jp-type-single">
+        <div class="jp-gui jp-interface">
+            <ul class="jp-controls">
+                <li><a href="javascript:;" class="jp-play" tabindex="1">play</a></li>
+                <li><a href="javascript:;" class="jp-pause" tabindex="1">pause</a></li>
+                <li><a href="javascript:;" class="jp-stop" tabindex="1">stop</a></li>
+                <li><a href="javascript:;" class="jp-mute" tabindex="1" title="mute">mute</a></li>
+                <li><a href="javascript:;" class="jp-unmute" tabindex="1" title="unmute">unmute</a></li>
+                <li><a href="javascript:;" class="jp-volume-max" tabindex="1" title="max volume">max volume</a></li>
+            </ul>
+            <div class="jp-progress">
+                <div class="jp-seek-bar">
+                    <div class="jp-play-bar"></div>
+                </div>
+            </div>
+            <div class="jp-volume-bar">
+                <div class="jp-volume-bar-value"></div>
+            </div>
+            <div class="jp-time-holder">
+                <div class="jp-current-time"></div>
+                <div class="jp-duration"></div>
+            </div>
+        </div>
+        <div class="jp-title">
+            <ul>
+                <li>Lost exception #6</li>
+            </ul>
+        </div>
+        <div class="jp-no-solution">
+            <span>Update Required</span>
+            To play the media you will need to either update your browser to a recent version or update your <a href="http://get.adobe.com/flashplayer/" target="_blank">Flash plugin</a>.
+        </div>
+    </div>
+</div>
+
+<p>
+    <div class="playlist">
+        <table>
+            <tr><td>1. Pink Martini - Hey Eugene</tr></td>
+            <tr><td>2. Blue Foundation - Bonfires</tr></td>
+            <tr><td>3. 8mm - Angel</tr></td>
+            <tr><td>4. Lykke Li - Little Bit</tr></td>
+            <tr><td>5. Hooverphonic - Mad about You</tr></td>
+            <tr><td>6. Lily Allen - Littlest Things</tr></td>
+            <tr><td>7. Flunk - Blind My Mind</tr></td>
+            <tr><td>8. Alphawezen - Speed of Light</tr></td>
+            <tr><td>9. Bonobo feat. Andreya Triana - The Keeper</tr></td>
+            <tr><td>10. Ellie Goulding - Lights</tr></td>
+            <tr><td>11. Lisa Ekdahl - Give Me That Slow Knowing Smile</tr></td>
+            <tr><td>12. Juzhin - I Cover the Waterfront</tr></td>
+        </table>
+    </div>
+
+    <a href=https://dl.dropbox.com/s/ekzkuherqy0gyvz/episode6.mp3?dl=1>Выпуск целиком</a>
+</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[5. Dreams, Pt. 1]]></title>
@@ -365,7 +449,7 @@ $(document).ready(function(){
         },
         cssSelectorAncestor: "#jp_container_1",
         swfPath: "/assets/jplayer",
-        supplied: "mp3, oga",
+        supplied: "mp3, oga",ZZ
         wmode: "window",
         preload: "none"
     });
@@ -430,6 +514,7 @@ $(document).ready(function(){
 
     <a href=https://dl.dropbox.com/s/4p9794dlydz8kxb/episode1.mp3?dl=1>Выпуск целиком</a>
 </p>
+
 ]]></content>
   </entry>
   
