@@ -4,7 +4,7 @@
   <title><![CDATA[Lost Exception]]></title>
   <link href="http://bumshmyak.github.com/lostexception/atom.xml" rel="self"/>
   <link href="http://bumshmyak.github.com/lostexception/"/>
-  <updated>2013-02-05T00:10:13+04:00</updated>
+  <updated>2013-02-05T00:12:39+04:00</updated>
   <id>http://bumshmyak.github.com/lostexception/</id>
   <author>
     <name><![CDATA[vykers and bumshmyak]]></name>
@@ -92,7 +92,7 @@ $(document).ready(function(){
         </table>
     </div>
 
-    <a href=https://www.dropbox.com/s/uu9vzmjgc3ncfkd/episode6.mp3?dl=1>Выпуск целиком</a>
+    <a href=https://dl.dropbox.com/s/uu9vzmjgc3ncfkd/episode6.mp3?dl=1>Выпуск целиком</a>
 </p>
 ]]></content>
   </entry>
