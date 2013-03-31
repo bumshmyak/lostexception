@@ -4,7 +4,7 @@
   <title><![CDATA[Lost Exception]]></title>
   <link href="http://bumshmyak.github.com/lostexception/atom.xml" rel="self"/>
   <link href="http://bumshmyak.github.com/lostexception/"/>
-  <updated>2013-04-01T00:34:57+04:00</updated>
+  <updated>2013-04-01T00:38:05+04:00</updated>
   <id>http://bumshmyak.github.com/lostexception/</id>
   <author>
     <name><![CDATA[vykers and bumshmyak]]></name>
@@ -40,8 +40,8 @@ $(document).ready(function(){
     $("#jquery_jplayer_7").jPlayer({
         ready: function (event) {
             $(this).jPlayer("setMedia", {
-                mp3: "https://www.dropbox.com/s/sgubg9j3bkfzi47/episode7.mp3",
-                oga: "https://www.dropbox.com/s/pa3bblfju2rzutg/episode7.oga"
+                mp3: "https://dl.dropbox.com/s/sgubg9j3bkfzi47/episode7.mp3",
+                oga: "https://dl.dropbox.com/s/pa3bblfju2rzutg/episode7.oga"
             });
         },
         cssSelectorAncestor: "#jp_container_7",
@@ -107,7 +107,7 @@ $(document).ready(function(){
         </table>
     </div>
 
-    <a href=https://www.dropbox.com/s/sgubg9j3bkfzi47/episode7.mp3?dl=1>Выпуск целиком</a>
+    <a href=https://dl.dropbox.com/s/sgubg9j3bkfzi47/episode7.mp3?dl=1>Выпуск целиком</a>
 </p>
 ]]></content>
   </entry>
@@ -122,7 +122,7 @@ $(document).ready(function(){
     $("#jquery_jplayer_6").jPlayer({
         ready: function (event) {
             $(this).jPlayer("setMedia", {
-                mp3: "https://www.dropbox.com/s/uu9vzmjgc3ncfkd/episode6.mp3",
+                mp3: "https://dl.dropbox.com/s/uu9vzmjgc3ncfkd/episode6.mp3",
                 oga: "https://dl.dropbox.com/s/70ko7obxxytno5u/episode6.oga"
             });
         },
