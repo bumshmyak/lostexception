@@ -4,7 +4,7 @@
   <title><![CDATA[Lost Exception]]></title>
   <link href="http://bumshmyak.github.com/lostexception/atom.xml" rel="self"/>
   <link href="http://bumshmyak.github.com/lostexception/"/>
-  <updated>2013-05-11T10:27:34+04:00</updated>
+  <updated>2013-05-11T10:31:56+04:00</updated>
   <id>http://bumshmyak.github.com/lostexception/</id>
   <author>
     <name><![CDATA[vykers and bumshmyak]]></name>
@@ -19,7 +19,7 @@
     <updated>2013-05-11T09:00:00+04:00</updated>
     <id>http://bumshmyak.github.com/lostexception/blog/2013/05/11/littlebig</id>
     <content type="html"><![CDATA[<p>
-<img src="images/daigacbj.jpg" alt="смешная картинка" />
+<img src="http://bumshmyak.github.com/lostexception/images/daigacbj.jpg" alt="смешная картинка" />
 </p>
 <p>
 Наш сегодняшний выпуск посвящен музыке из серии видеоигр <em>LittleBigPlanet</em>.
