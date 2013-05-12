@@ -4,7 +4,7 @@
   <title><![CDATA[Lost Exception]]></title>
   <link href="http://bumshmyak.github.com/lostexception/atom.xml" rel="self"/>
   <link href="http://bumshmyak.github.com/lostexception/"/>
-  <updated>2013-05-11T10:31:56+04:00</updated>
+  <updated>2013-05-12T11:22:52+04:00</updated>
   <id>http://bumshmyak.github.com/lostexception/</id>
   <author>
     <name><![CDATA[vykers and bumshmyak]]></name>
@@ -32,7 +32,8 @@ $(document).ready(function(){
     $("#jquery_jplayer_8").jPlayer({
         ready: function (event) {
             $(this).jPlayer("setMedia", {
-                mp3: "https://dl.dropbox.com/s/r17r4p0at6hcnsa/episode8.mp3"
+                mp3: "https://dl.dropbox.com/s/r17r4p0at6hcnsa/episode8.mp3",
+                oga: "https://dl.dropbox.com/s/1bjqhvs2bs05vks/episode8.oga"
             });
         },
         cssSelectorAncestor: "#jp_container_8",
@@ -183,6 +184,8 @@ $(document).ready(function(){
         </div>
     </div>
 </div>
+
+<!-- more -->
 
 <p>
     <div class="playlist">
