@@ -4,7 +4,7 @@
   <title><![CDATA[Lost Exception]]></title>
   <link href="http://bumshmyak.github.com/lostexception/atom.xml" rel="self"/>
   <link href="http://bumshmyak.github.com/lostexception/"/>
-  <updated>2013-05-12T11:28:38+04:00</updated>
+  <updated>2013-05-20T22:07:03+04:00</updated>
   <id>http://bumshmyak.github.com/lostexception/</id>
   <author>
     <name><![CDATA[vykers and bumshmyak]]></name>
@@ -12,6 +12,96 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[9. Something to Listen to]]></title>
+    <link href="http://bumshmyak.github.com/lostexception/blog/2013/05/20/something-to-listen-to/"/>
+    <updated>2013-05-20T21:50:00+04:00</updated>
+    <id>http://bumshmyak.github.com/lostexception/blog/2013/05/20/something-to-listen-to</id>
+    <content type="html"><![CDATA[<p>
+<img src="http://bumshmyak.github.com/lostexception/images/fbhahigj.jpg" alt="смешная картинка" />
+</p>
+<p>
+Сделаем перерыв между тематическими выпусками и просто послушаем немного хорошей музыки. 
+</p>
+
+
+<script type="text/javascript">
+$(document).ready(function(){
+    $("#jquery_jplayer_9").jPlayer({
+        ready: function (event) {
+            $(this).jPlayer("setMedia", {
+                mp3: "https://dl.dropbox.com/s/shtuil0z4t69lsj/episode9.mp3",
+                oga: "https://dl.dropbox.com/s/qzunm8e4tu1wbnn/episode9.ogg"
+            });
+        },
+        cssSelectorAncestor: "#jp_container_9",
+        swfPath: "/assets/jplayer",
+        supplied: "mp3",
+        wmode: "window",
+        preload: "none"
+    });
+});
+</script>
+
+<div id="jquery_jplayer_9" class="jp-jplayer"></div>
+
+<div id="jp_container_9" class="jp-audio">
+    <div class="jp-type-single">
+        <div class="jp-gui jp-interface">
+            <ul class="jp-controls">
+                <li><a href="javascript:;" class="jp-play" tabindex="1">play</a></li>
+                <li><a href="javascript:;" class="jp-pause" tabindex="1">pause</a></li>
+                <li><a href="javascript:;" class="jp-stop" tabindex="1">stop</a></li>
+                <li><a href="javascript:;" class="jp-mute" tabindex="1" title="mute">mute</a></li>
+                <li><a href="javascript:;" class="jp-unmute" tabindex="1" title="unmute">unmute</a></li>
+                <li><a href="javascript:;" class="jp-volume-max" tabindex="1" title="max volume">max volume</a></li>
+            </ul>
+            <div class="jp-progress">
+                <div class="jp-seek-bar">
+                    <div class="jp-play-bar"></div>
+                </div>
+            </div>
+            <div class="jp-volume-bar">
+                <div class="jp-volume-bar-value"></div>
+            </div>
+            <div class="jp-time-holder">
+                <div class="jp-current-time"></div>
+                <div class="jp-duration"></div>
+            </div>
+        </div>
+        <div class="jp-title">
+            <ul>
+                <li>Lost exception #9</li>
+            </ul>
+        </div>
+        <div class="jp-no-solution">
+            <span>Update Required</span>
+            To play the media you will need to either update your browser to a recent version or update your <a href="http://get.adobe.com/flashplayer/" target="_blank">Flash plugin</a>.
+        </div>
+    </div>
+</div>
+
+<p>
+    <div class="playlist">
+        <table>
+            <tr><td>1. Leonard Cohen - Who by Fire (Live)</td></tr>
+            <tr><td>2. Nym - Lesser Known Good</td></tr>
+            <tr><td>3. Buck 65 feat. Jenn Grant - Paper Airplanes</td></tr>
+            <tr><td>4. Emiliana Torrini - On The Sunny Road (Nym Remix)</td></tr>
+            <tr><td>5. Pretty Lights - Finally Moving</td></tr>
+            <tr><td>6. Lisa Miskovsky - Sweet Misery</td></tr>
+            <tr><td>7. Courtney Draper, Troy Baker - Will the Circle Be Unbroken</td></tr>
+            <tr><td>8. Blue Sky Black Death - Different Hours</td></tr>
+            <tr><td>9. The Heavy - Blood Dirt Love Stop</td></tr>
+            <tr><td>10. Gramatik - Just Jammin&#8217;</td></tr>
+        </table>
+    </div>
+
+    <a href=https://dl.dropbox.com/s/shtuil0z4t69lsj/episode9.mp3?dl=1>Выпуск целиком</a>
+</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[8. LittleBigException]]></title>
@@ -82,6 +172,8 @@ $(document).ready(function(){
         </div>
     </div>
 </div>
+
+<!-- more -->
 
 <p>
     <div class="playlist">
