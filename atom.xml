@@ -4,7 +4,7 @@
   <title><![CDATA[Lost Exception]]></title>
   <link href="http://bumshmyak.github.com/lostexception/atom.xml" rel="self"/>
   <link href="http://bumshmyak.github.com/lostexception/"/>
-  <updated>2013-07-03T23:01:54+04:00</updated>
+  <updated>2013-07-04T00:05:54+04:00</updated>
   <id>http://bumshmyak.github.com/lostexception/</id>
   <author>
     <name><![CDATA[vykers and bumshmyak]]></name>
@@ -85,6 +85,17 @@ $(document).ready(function(){
 <p>
     <div class="playlist">
         <table>
+            <tr><td>1. The Coral - Dreaming of You</td></tr>
+            <tr><td>2. Portugal. The Man - Creep in a T-Shirt</td></tr>
+            <tr><td>3. MGMT - Kids</td></tr>
+            <tr><td>4. Jim Guthrie - Difference a Day Makes</td></tr>
+            <tr><td>5. Franz Ferdinand - Walk Away</td></tr>
+            <tr><td>6. Beck - Modern Guilt</td></tr>
+            <tr><td>7. The Black Keys - Next Girl</td></tr>
+            <tr><td>8. Jonathan Coulton - My Monkey</td></tr>
+            <tr><td>9. Barenaked Ladies - Sound of Your Voice</td></tr>
+            <tr><td>10. Portugal. The Man - Sleep Forever</td></tr>
+            <tr><td>11. Blur - Battery in Your Leg</td></tr>
         </table>
     </div>    
     <a href=https://dl.dropbox.com/s/znfvxa77btup441/episode10.mp3?dl=1>Выпуск целиком</a>
