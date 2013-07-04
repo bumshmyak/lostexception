@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://bumshmyak.github.com/lostexception/sitemap.xml 
+Sitemap: http://lostexception.ru/sitemap.xml 

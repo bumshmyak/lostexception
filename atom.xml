@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Lost Exception]]></title>
-  <link href="http://bumshmyak.github.com/lostexception/atom.xml" rel="self"/>
-  <link href="http://bumshmyak.github.com/lostexception/"/>
-  <updated>2013-07-04T00:05:54+04:00</updated>
-  <id>http://bumshmyak.github.com/lostexception/</id>
+  <link href="http://lostexception.ru/atom.xml" rel="self"/>
+  <link href="http://lostexception.ru/"/>
+  <updated>2013-07-04T13:29:15+04:00</updated>
+  <id>http://lostexception.ru/</id>
   <author>
     <name><![CDATA[vykers and bumshmyak]]></name>
     
@@ -15,11 +15,11 @@
   
   <entry>
     <title type="html"><![CDATA[10. Инди-Рок]]></title>
-    <link href="http://bumshmyak.github.com/lostexception/blog/2013/07/03/indie-rock/"/>
+    <link href="http://lostexception.ru/blog/2013/07/03/indie-rock/"/>
     <updated>2013-07-03T22:45:00+04:00</updated>
-    <id>http://bumshmyak.github.com/lostexception/blog/2013/07/03/indie-rock</id>
+    <id>http://lostexception.ru/blog/2013/07/03/indie-rock</id>
     <content type="html"><![CDATA[<p>
-<img src="http://bumshmyak.github.com/lostexception/images/ebfifaca.jpg" alt="смешная картинка" />
+<img src="http://lostexception.ru/images/ebfifaca.jpg" alt="смешная картинка" />
 </p>
 <p>
 Вот вам немножко инди-рока, хорошего и разного.    
@@ -105,11 +105,11 @@ $(document).ready(function(){
   
   <entry>
     <title type="html"><![CDATA[9. Something to Listen to]]></title>
-    <link href="http://bumshmyak.github.com/lostexception/blog/2013/05/20/something-to-listen-to/"/>
+    <link href="http://lostexception.ru/blog/2013/05/20/something-to-listen-to/"/>
     <updated>2013-05-20T21:50:00+04:00</updated>
-    <id>http://bumshmyak.github.com/lostexception/blog/2013/05/20/something-to-listen-to</id>
+    <id>http://lostexception.ru/blog/2013/05/20/something-to-listen-to</id>
     <content type="html"><![CDATA[<p>
-<img src="http://bumshmyak.github.com/lostexception/images/fbhahigj.jpg" alt="смешная картинка" />
+<img src="http://lostexception.ru/images/fbhahigj.jpg" alt="смешная картинка" />
 </p>
 <p>
 Сделаем перерыв между тематическими выпусками и просто послушаем немного хорошей музыки. 
@@ -195,11 +195,11 @@ $(document).ready(function(){
   
   <entry>
     <title type="html"><![CDATA[8. LittleBigException]]></title>
-    <link href="http://bumshmyak.github.com/lostexception/blog/2013/05/11/littlebig/"/>
+    <link href="http://lostexception.ru/blog/2013/05/11/littlebig/"/>
     <updated>2013-05-11T09:00:00+04:00</updated>
-    <id>http://bumshmyak.github.com/lostexception/blog/2013/05/11/littlebig</id>
+    <id>http://lostexception.ru/blog/2013/05/11/littlebig</id>
     <content type="html"><![CDATA[<p>
-<img src="http://bumshmyak.github.com/lostexception/images/daigacbj.jpg" alt="смешная картинка" />
+<img src="http://lostexception.ru/images/daigacbj.jpg" alt="смешная картинка" />
 </p>
 <p>
 Наш сегодняшний выпуск посвящен музыке из серии видеоигр <em>LittleBigPlanet</em>.
@@ -291,9 +291,9 @@ $(document).ready(function(){
   
   <entry>
     <title type="html"><![CDATA[7. Неожиданный]]></title>
-    <link href="http://bumshmyak.github.com/lostexception/blog/2013/04/01/unexpected/"/>
+    <link href="http://lostexception.ru/blog/2013/04/01/unexpected/"/>
     <updated>2013-04-01T09:00:00+04:00</updated>
-    <id>http://bumshmyak.github.com/lostexception/blog/2013/04/01/unexpected</id>
+    <id>http://lostexception.ru/blog/2013/04/01/unexpected</id>
     <content type="html"><![CDATA[Ура, вот и наш первый весенний LE (наконец-то)!</br>
 Этот выпуск получился
 очень разношерстным с точки зрения затронутых жанров и стилей. Посудите
@@ -392,9 +392,9 @@ $(document).ready(function(){
   
   <entry>
     <title type="html"><![CDATA[6. Светлый]]></title>
-    <link href="http://bumshmyak.github.com/lostexception/blog/2013/02/04/light/"/>
+    <link href="http://lostexception.ru/blog/2013/02/04/light/"/>
     <updated>2013-02-04T22:21:00+04:00</updated>
-    <id>http://bumshmyak.github.com/lostexception/blog/2013/02/04/light</id>
+    <id>http://lostexception.ru/blog/2013/02/04/light</id>
     <content type="html"><![CDATA[<script type="text/javascript">
 $(document).ready(function(){
     $("#jquery_jplayer_6").jPlayer({
@@ -478,9 +478,9 @@ $(document).ready(function(){
   
   <entry>
     <title type="html"><![CDATA[5. Dreams, Pt. 1]]></title>
-    <link href="http://bumshmyak.github.com/lostexception/blog/2013/01/15/dreams/"/>
+    <link href="http://lostexception.ru/blog/2013/01/15/dreams/"/>
     <updated>2013-01-15T22:21:00+04:00</updated>
-    <id>http://bumshmyak.github.com/lostexception/blog/2013/01/15/dreams</id>
+    <id>http://lostexception.ru/blog/2013/01/15/dreams</id>
     <content type="html"><![CDATA[<script type="text/javascript">
 $(document).ready(function(){
     $("#jquery_jplayer_5").jPlayer({
@@ -566,9 +566,9 @@ $(document).ready(function(){
   
   <entry>
     <title type="html"><![CDATA[4. Зимний]]></title>
-    <link href="http://bumshmyak.github.com/lostexception/blog/2012/12/30/winter/"/>
+    <link href="http://lostexception.ru/blog/2012/12/30/winter/"/>
     <updated>2012-12-30T22:21:00+04:00</updated>
-    <id>http://bumshmyak.github.com/lostexception/blog/2012/12/30/winter</id>
+    <id>http://lostexception.ru/blog/2012/12/30/winter</id>
     <content type="html"><![CDATA[<script type="text/javascript">
 $(document).ready(function(){
     $("#jquery_jplayer_4").jPlayer({
@@ -651,9 +651,9 @@ $(document).ready(function(){
   
   <entry>
     <title type="html"><![CDATA[3. Спокойный]]></title>
-    <link href="http://bumshmyak.github.com/lostexception/blog/2012/12/22/smooth/"/>
+    <link href="http://lostexception.ru/blog/2012/12/22/smooth/"/>
     <updated>2012-12-22T22:21:00+04:00</updated>
-    <id>http://bumshmyak.github.com/lostexception/blog/2012/12/22/smooth</id>
+    <id>http://lostexception.ru/blog/2012/12/22/smooth</id>
     <content type="html"><![CDATA[<script type="text/javascript">
 $(document).ready(function(){
     $("#jquery_jplayer_3").jPlayer({
@@ -736,9 +736,9 @@ $(document).ready(function(){
   
   <entry>
     <title type="html"><![CDATA[2. Дикий запад]]></title>
-    <link href="http://bumshmyak.github.com/lostexception/blog/2012/11/17/second/"/>
+    <link href="http://lostexception.ru/blog/2012/11/17/second/"/>
     <updated>2012-11-17T22:21:00+04:00</updated>
-    <id>http://bumshmyak.github.com/lostexception/blog/2012/11/17/second</id>
+    <id>http://lostexception.ru/blog/2012/11/17/second</id>
     <content type="html"><![CDATA[<script type="text/javascript">
 $(document).ready(function(){
     $("#jquery_jplayer_2").jPlayer({
@@ -823,9 +823,9 @@ Sweet Smell</tr></td>
   
   <entry>
     <title type="html"><![CDATA[1. Пробный камень]]></title>
-    <link href="http://bumshmyak.github.com/lostexception/blog/2012/09/22/hello-world/"/>
+    <link href="http://lostexception.ru/blog/2012/09/22/hello-world/"/>
     <updated>2012-09-22T22:21:00+04:00</updated>
-    <id>http://bumshmyak.github.com/lostexception/blog/2012/09/22/hello-world</id>
+    <id>http://lostexception.ru/blog/2012/09/22/hello-world</id>
     <content type="html"><![CDATA[<script type="text/javascript">
 $(document).ready(function(){
     $("#jquery_jplayer_1").jPlayer({
