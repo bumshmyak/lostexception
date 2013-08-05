@@ -4,7 +4,7 @@
   <title><![CDATA[Lost Exception]]></title>
   <link href="http://lostexception.ru/atom.xml" rel="self"/>
   <link href="http://lostexception.ru/"/>
-  <updated>2013-07-04T13:44:49+04:00</updated>
+  <updated>2013-08-05T11:38:32+04:00</updated>
   <id>http://lostexception.ru/</id>
   <author>
     <name><![CDATA[vykers and bumshmyak]]></name>
@@ -12,6 +12,100 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[11. The Legendary Buck 65]]></title>
+    <link href="http://lostexception.ru/blog/2013/08/05/the-legendary-buck-65/"/>
+    <updated>2013-08-05T11:29:00+04:00</updated>
+    <id>http://lostexception.ru/blog/2013/08/05/the-legendary-buck-65</id>
+    <content type="html"><![CDATA[<p>
+<img src="http://lostexception.ru/images/baegecci.jpg" alt="смешная картинка" />
+</p>
+<p>
+Сегодня мы начинаем вести на нашем сайте новую рубрику! Суть ее такова, что периодически я буду посвящать целый выпуск одному-единственному певцу или группе, достойным, на мой взгляд, особого внимания. Ну и первый такой выпуск я без затей решил посвятить своему любимому исполнителю, канадскому музыканту Ричарду Терфраю, более известному как Buck 65.
+</p>
+<p>
+Сложно в двух словах объяснить, чем же так хорош Buck 65. Он с легкостью мешает хип-хоп с блюзом, электроникой и чуть ли не построком, пишет невероятно красивые и глубокомысленные тексты, на сцене любит подурачиться или травануть веселую байку и вообще создает впечатление весьма неординарного, но в то же время искреннего человека. Не будет преувеличением сказать, что он оказал влияние не только на мои музыкальные вкусы, но и на мировоззрение в целом.
+</p>
+
+
+<script type="text/javascript">
+$(document).ready(function(){
+    $("#jquery_jplayer_11").jPlayer({
+        ready: function (event) {
+            $(this).jPlayer("setMedia", {
+                mp3: "https://dl.dropbox.com/s/orh2rejexrt85jw/episode11.mp3",
+                oga: "https://dl.dropbox.com/s/ejg188zkkyhywxk/episode11.ogg"
+            });
+        },
+        cssSelectorAncestor: "#jp_container_11",
+        swfPath: "/assets/jplayer",
+        supplied: "mp3",
+        wmode: "window",
+        preload: "none"
+    });
+});
+</script>
+
+<div id="jquery_jplayer_11" class="jp-jplayer"></div>
+
+<div id="jp_container_11" class="jp-audio">
+    <div class="jp-type-single">
+        <div class="jp-gui jp-interface">
+            <ul class="jp-controls">
+                <li><a href="javascript:;" class="jp-play" tabindex="1">play</a></li>
+                <li><a href="javascript:;" class="jp-pause" tabindex="1">pause</a></li>
+                <li><a href="javascript:;" class="jp-stop" tabindex="1">stop</a></li>
+                <li><a href="javascript:;" class="jp-mute" tabindex="1" title="mute">mute</a></li>
+                <li><a href="javascript:;" class="jp-unmute" tabindex="1" title="unmute">unmute</a></li>
+                <li><a href="javascript:;" class="jp-volume-max" tabindex="1" title="max volume">max volume</a></li>
+            </ul>
+            <div class="jp-progress">
+                <div class="jp-seek-bar">
+                    <div class="jp-play-bar"></div>
+                </div>
+            </div>
+            <div class="jp-volume-bar">
+                <div class="jp-volume-bar-value"></div>
+            </div>
+            <div class="jp-time-holder">
+                <div class="jp-current-time"></div>
+                <div class="jp-duration"></div>
+            </div>
+        </div>
+        <div class="jp-title">
+            <ul>
+                <li>Lost exception #11</li>
+            </ul>
+        </div>
+        <div class="jp-no-solution">
+            <span>Update Required</span>
+            To play the media you will need to either update your browser to a recent version or update your <a href="http://get.adobe.com/flashplayer/" target="_blank">Flash plugin</a>.
+        </div>
+    </div>
+</div>
+
+<p>
+    <div class="playlist">
+        <table>
+            <tr><td>1. Leftfielder;</td></tr>
+            <tr><td>2. Wicked and Weird;</td></tr>
+            <tr><td>3. Days Go By;</td></tr>
+            <tr><td>4. Rebel;</td></tr>
+            <tr><td>5. Gee Whiz;</td></tr>
+            <tr><td>6. Drawing Curtains;</td></tr>
+            <tr><td>7. She Kissed the Boy;</td></tr>
+            <tr><td>8. On All Fours;</td></tr>
+            <tr><td>9. Girls with Boyfriends;</td></tr>
+            <tr><td>10. Rat&#8217;s Ass;</td></tr>
+            <tr><td>11. Final Approach;</td></tr>
+            <tr><td>12. Corrugated Tin Façade.</td></tr>
+        </table>
+    </div>
+    <a href=https://dl.dropbox.com/s/orh2rejexrt85jw/episode11.mp3?dl=1>Выпуск целиком</a>
+</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[10. Инди-Рок]]></title>
